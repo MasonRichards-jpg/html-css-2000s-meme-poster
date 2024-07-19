@@ -34,4 +34,8 @@ img{
     img{
         height: 10cm;
     }
+    p{
+        text-align: center;
+    }
+
 }
